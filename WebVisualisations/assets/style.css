@@ -1,0 +1,82 @@
+body{
+    background-color: #ededed;
+}
+
+nav{
+    background-color: white;
+}
+
+.navbar-brand{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    background-color: #4aaaa5;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+
+.dropdown-menu a:hover {
+    color: white ;
+    background:#4aaaa5 ;
+}
+
+.comp-cont h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: #4aaaa5;
+}
+
+.cont1 h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: #4aaaa5;
+}
+
+.cont2 h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: #4aaaa5;
+}
+
+.comp-cont{
+    margin-top: 20px;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+.cont1{
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 40px;
+}
+
+.cont2{
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.borders{
+    border: 3px solid #4aaaa5
+}
+
+#landingpic{
+    float: left;
+}
+
+@media(max-width:991px)
+{
+    nav{
+        background-color: #4aaaa5;
+    }
+}
+
+@media(max-width:768px)
+{
+    .center{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 35%;
+    }
+}
