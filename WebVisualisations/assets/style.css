@@ -20,6 +20,12 @@ nav{
     background:#4aaaa5 ;
 }
 
+.comp-h{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: #4aaaa5;
+}
+
 .comp-cont h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 40px;
