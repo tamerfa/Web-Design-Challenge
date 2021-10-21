@@ -26,6 +26,12 @@ nav{
     color: #4aaaa5;
 }
 
+.data-cont h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: #4aaaa5;
+}
+
 .comp-cont h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 40px;
@@ -42,6 +48,12 @@ nav{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 30px;
     color: #4aaaa5;
+}
+
+.data-cont{
+    margin-top: 30px;
+    margin-right: 70px;
+    margin-left: 70px;
 }
 
 .comp-cont{
